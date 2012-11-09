@@ -8,5 +8,3 @@
 /usr/bin/rsync -varP ~/Dropbox/SCI_Diag_Reports /Volumes/Data/imac-nas/
 
 /usr/bin/rsync -varP ~/Dropbox/SCI_Diag_Reports/2012 /Volumes/Data/imac-nas/PHYCOM/Reports
-
-#/usr/local/bin/lftp -u scibasg,sci4basg -e "mirror -R -v -n /Users/administrator/Desktop/imac-nas/SCI_Diag_Reports/2012/ /PHYCOM/Reports" aceinfosys.com
